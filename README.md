@@ -1,5 +1,5 @@
 # CNN
 CNN projects:
-## handwriiten
+## handwriiten digit
 ## animal sound classification
 

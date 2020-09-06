@@ -1,2 +1,5 @@
 # CNN
-CNN project
+CNN projects:
+->handwriiten
+->animal sound classification
+
